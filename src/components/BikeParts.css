@@ -1,0 +1,46 @@
+.bike{
+    background-color: white;
+}
+.bike-parts-container{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 24px;
+    background-color: white;
+}
+
+.bike-part-size{
+    width: 30%;
+    height: 30%;
+}
+
+.inside-title{
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+.number,.name{
+    
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    margin: 0;padding: 0;
+}
+
+.number{
+    font-size: 38px;
+    margin-right: 3px;
+}
+
+.name{
+    font-size: 62px;
+    font-weight: 700;
+}
+
+.accessories{
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+}

@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bike-container{
+    background-color: black;
+    background-image: url("./bike-image.png");
+    background-size: 50% 50%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 80px 50px;
+    /* -webkit-animation: spin 1s linear infinite;
+    -moz-animation: spin 1s linear infinite;
+    animation: spin 1s linear infinite; */
+
+
+}
+
+.feature-left{
+    width: 400px;
+}
+
+.feature-right{
+    margin-left: 65%;
+    text-align: start;
+    width: 400px;
+}
+
+.feature-left-digit{
+    font-size: 18px;
+    color: rgb(119, 119, 119);
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.feature-left-title{
+    font-size: 56px;
+    font-weight: 700;
+    margin: 0;
+    padding: 6px 0;
+    text-transform: uppercase;
+    line-height: 52px;
+}
+
+.feature-left-feature{
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+}
+
+
+
+/* @-webkit-keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
+
+@-moz-keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+} */
+

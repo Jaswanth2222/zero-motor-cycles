@@ -1,0 +1,10 @@
+.image-container {
+  transition: width 2s ease; /* Add transition for smooth width changes */
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image {
+  width: 100%;
+  
+}
