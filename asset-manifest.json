@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zero-motor-cycles/static/css/main.dab34a35.css",
-    "main.js": "/zero-motor-cycles/static/js/main.bb2b4d42.js",
-    "static/js/787.8a41e9eb.chunk.js": "/zero-motor-cycles/static/js/787.8a41e9eb.chunk.js",
-    "static/media/bike-image.png": "/zero-motor-cycles/static/media/bike-image.968114928215d13b16bb.png",
-    "index.html": "/zero-motor-cycles/index.html",
-    "main.dab34a35.css.map": "/zero-motor-cycles/static/css/main.dab34a35.css.map",
-    "main.bb2b4d42.js.map": "/zero-motor-cycles/static/js/main.bb2b4d42.js.map",
-    "787.8a41e9eb.chunk.js.map": "/zero-motor-cycles/static/js/787.8a41e9eb.chunk.js.map"
+    "main.css": "/zero-motor-cyclesss/static/css/main.482b6136.css",
+    "main.js": "/zero-motor-cyclesss/static/js/main.82df915b.js",
+    "static/js/787.8a41e9eb.chunk.js": "/zero-motor-cyclesss/static/js/787.8a41e9eb.chunk.js",
+    "static/media/bike-image.png": "/zero-motor-cyclesss/static/media/bike-image.968114928215d13b16bb.png",
+    "index.html": "/zero-motor-cyclesss/index.html",
+    "main.482b6136.css.map": "/zero-motor-cyclesss/static/css/main.482b6136.css.map",
+    "main.82df915b.js.map": "/zero-motor-cyclesss/static/js/main.82df915b.js.map",
+    "787.8a41e9eb.chunk.js.map": "/zero-motor-cyclesss/static/js/787.8a41e9eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab34a35.css",
-    "static/js/main.bb2b4d42.js"
+    "static/css/main.482b6136.css",
+    "static/js/main.82df915b.js"
   ]
 }
